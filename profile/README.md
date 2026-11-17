@@ -1,4 +1,4 @@
-![](https://repository-images.githubusercontent.com/728714946/42abb677-a9ff-45e6-820f-d517dc615ec2)
+![](https://repository-images.githubusercontent.com/802852356/16b6a6bf-c9c4-4723-9a5c-402c50dab41d)
 
 # The next-gen minecraft launcher is here
 Morpheus Launcher provides a modern, efficient, and intuitive way to manage and launch Minecraft instances, supporting both premium and non-premium (SP) accounts.
